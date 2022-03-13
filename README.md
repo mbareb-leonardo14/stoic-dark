@@ -1,3 +1,3 @@
 README
 
-gktau maunya apa
+pertama kali bikin tema vscode
