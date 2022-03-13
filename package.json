@@ -1,0 +1,26 @@
+{
+    "name": "stoic-dark",
+    "displayName": "Stoic Dark",
+    "description": "Stoic Dark!",
+    "version": "0.0.1",
+    "publisher": "StoicCode",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mbareb-leonardo14/stoic-dark.git"
+    },
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stoic Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Stoic Dark-color-theme.json"
+            }
+        ]
+    }
+}
